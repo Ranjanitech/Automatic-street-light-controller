@@ -1,5 +1,3 @@
-# Automatic-street-light-controller
-
 ## 📌 Project Overview
 The Automatic Street Light Controller is an energy-efficient automation system that turns street lights ON and OFF automatically based on ambient light conditions. This system helps reduce manual effort and saves electricity by ensuring lights operate only when required.
 
